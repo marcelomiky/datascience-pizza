@@ -13,7 +13,7 @@
 - [R Brasil - Telegram](https://t.me/rbrasiloficial)
 - [R-Ladies São Paulo - Meetup](https://www.meetup.com/rladies-sao-paulo/)
 R- [Data Science Brasil - Facebook](https://www.facebook.com/groups/DataScienceMachineLearningBR/)
-- [Data Science São Carlos (SP) Meetup](https://www.meetup.com/pt-BR/Sao-Carlos-Data-Science-Meetup/)
+- [Data Science São Carlos (SP)]
     * [Fanpage](https://www.facebook.com/DataScienceSanca)
     * [Palestras - Youtube](https://www.youtube.com/channel/UC9vnxC4PGuQGtnEydfTVquQ/playlists)
     * [Telegram](https://t.me/DataScienceSanca)
